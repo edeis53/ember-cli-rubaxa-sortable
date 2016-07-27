@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-rubaxa-sortable/components/sortable-items';
