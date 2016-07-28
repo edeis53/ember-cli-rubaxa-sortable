@@ -1,6 +1,6 @@
 # Ember-cli-rubaxa-sortable
 
-This README outlines the details of collaborating on this Ember addon.
+This plugin is a wrapper surrounding https://github.com/RubaXa/Sortable. 
 
 ## Installation
 
