@@ -1,8 +1,8 @@
 # Ember-cli-rubaxa-sortable
 
-This plugin is a wrapper surrounding https://github.com/RubaXa/Sortable. 
+This plugin is a wrapper surrounding https://github.com/RubaXa/Sortable.
 
-This is a simplification of the work done at https://github.com/MaazAli/ember-cli-sortable.
+This is a fork of the work done by MaazAli at https://github.com/MaazAli/ember-cli-sortable.
 
 ## Installation
 
