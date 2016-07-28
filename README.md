@@ -2,6 +2,8 @@
 
 This plugin is a wrapper surrounding https://github.com/RubaXa/Sortable. 
 
+This is a simplification of the work done at https://github.com/MaazAli/ember-cli-sortable.
+
 ## Installation
 
 * `git clone` this repository
